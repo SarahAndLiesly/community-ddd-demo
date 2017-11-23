@@ -45,3 +45,6 @@ Temporary Items
 .classpath
 .project
 /.settings/
+
+#idea
+.idea/
